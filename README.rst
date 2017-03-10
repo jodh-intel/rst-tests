@@ -26,4 +26,16 @@ This is a sphinx reference to a section in another rST file: :ref:`my-reference-
 
 A sphinx reference to another file: :ref:`another-file` or :ref:`another-file.rst`.
 
+An Include Example
+------------------
+
+The line below should *not* say "foo".
+
+.. include:: include-me.rst
+
+foo.
+
+The End
+-------
+
 Thanks for reading!
