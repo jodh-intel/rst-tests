@@ -17,6 +17,8 @@ This is rendered as C code:
    int func() { ... }
 ```
 
+|clear-containers|
+
 ## References test
 
 I refer to the first section [A section](#a-section).
