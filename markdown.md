@@ -19,4 +19,4 @@ This is rendered as C code:
 
 ## References test
 
-I refer to the first section [a-section](#A section).
+I refer to the first section [A section](#a-section).
