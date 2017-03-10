@@ -21,3 +21,6 @@ An example of the ``code-block`` sphinx directive:
   i = 17;
   
   The end.
+
+An example of the ``|today| substitution`` sphinx directive: |today|.
+
