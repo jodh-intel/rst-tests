@@ -24,3 +24,5 @@ An example of the ``code-block`` sphinx directive:
 
 An example of the ``|today| substitution`` sphinx directive: |today|.
 
+This is a reference to another rST file: :ref:`my-reference-label`.
+
