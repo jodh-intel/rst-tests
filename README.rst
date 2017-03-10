@@ -1,1 +1,4 @@
-foo
+Title
+=====
+
+foo bar.
