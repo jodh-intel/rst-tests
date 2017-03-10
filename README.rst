@@ -3,7 +3,7 @@ Title
 
 foo bar.
 
-The text below is rendered in a fixed font::
+The text below is rendered in a fixed font using the standard rST ``::`` syntax::
 
   $ echo foo
 
