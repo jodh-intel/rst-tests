@@ -1,6 +1,8 @@
 Yet Another rST File
 ====================
 
+.. _my-reference-label:
+
 Introduction
 ------------
 
