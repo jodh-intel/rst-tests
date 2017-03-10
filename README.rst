@@ -7,7 +7,7 @@ The text below is rendered in a fixed font using the standard rST ``::`` syntax:
 
   $ echo foo
 
-An example of the ``highlight`` sphinx directive (XXX: doesn't render in github!):
+An example of the ``highlight`` sphinx directive (**XXX: doesn't render in github!**):
   
 .. highlight:: c
 
