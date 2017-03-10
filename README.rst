@@ -20,10 +20,10 @@ An example of the ``code-block`` sphinx directive:
   int i;
   i = 17;
   
-  The end.
-
 An example of the ``|today| substitution`` sphinx directive: |today|.
 
 This is a sphinx reference to a section in another rST file: :ref:`my-reference-label`.
 
 A sphinx reference to another file: :ref:`another-file` or :ref:`another-file.rst`.
+
+Thanks for reading!
