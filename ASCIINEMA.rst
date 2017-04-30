@@ -6,7 +6,7 @@ PNG linking to the asciinema site:
 
 Foo bar.
 
-Embedded asciinema player:
+Embedded asciinema player (seemingly stripped by github due to ``<script/>`` tag):
 
 .. raw:: html
 
