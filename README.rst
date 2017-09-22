@@ -1,6 +1,8 @@
 Title
 =====
 
+Link to `another file <another-file.rst>`_.
+
 .. warning:: I am a warning!
    The warning can extend to multiple lines!
 
