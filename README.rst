@@ -1,6 +1,9 @@
 Title
 =====
 
+.. warning:: I am a warning!
+   The warning can extend to multiple lines!
+
 foo bar.
 
 The text below is rendered in a fixed font using the standard rST ``::`` syntax::
